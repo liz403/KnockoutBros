@@ -1,5 +1,8 @@
 using UnityEngine;
 
-public class Jumpable : MonoBehaviour
+namespace Tags
 {
+    public class Jumpable : MonoBehaviour
+    {
+    }
 }
